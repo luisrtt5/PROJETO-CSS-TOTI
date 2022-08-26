@@ -499,7 +499,7 @@ p {
 .formulario form label {
   line-height: 30px;
 }
-/*social icons */
+/*icons */
 .fb, .ig, .what, .nk{
   font-size: 1.5rem;
  }
@@ -673,7 +673,7 @@ footer {
   .contact {
     width: 50%;
     height: 500px;
-    background-image: url(../img/social.png);
+    background-image: url(../IMG/social.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 70%;
@@ -837,7 +837,7 @@ footer {
   .contact {
     width: 50%;
     height: 500px;
-    background-image: url(../img/social.png);
+    background-image: url(../IMG/social.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 70%;
